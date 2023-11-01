@@ -1,0 +1,7 @@
+C:\Users\IRMAK\source\repos\unit3\unit3\bin\Debug\unit3.exe.config
+C:\Users\IRMAK\source\repos\unit3\unit3\bin\Debug\unit3.exe
+C:\Users\IRMAK\source\repos\unit3\unit3\bin\Debug\unit3.pdb
+C:\Users\IRMAK\source\repos\unit3\unit3\obj\Debug\unit3.csproj.AssemblyReference.cache
+C:\Users\IRMAK\source\repos\unit3\unit3\obj\Debug\unit3.csproj.CoreCompileInputs.cache
+C:\Users\IRMAK\source\repos\unit3\unit3\obj\Debug\unit3.exe
+C:\Users\IRMAK\source\repos\unit3\unit3\obj\Debug\unit3.pdb
